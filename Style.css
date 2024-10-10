@@ -1,4 +1,4 @@
-#id1{
+header{
     color:white;
     background-color: blue;
 }
@@ -17,4 +17,7 @@
 }
 #id3{
     text-align: center;
+}
+a {
+    text-decoration: none;
 }
