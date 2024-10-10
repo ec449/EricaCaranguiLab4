@@ -37,3 +37,6 @@ body{
 .custom-font{
     font-family: 'Times New Roman', serif;
 }
+#h7{
+    text-transform: uppercase;
+}
