@@ -2,3 +2,10 @@
     color:white;
     background-color: blue;
 }
+.container{
+    color:black;
+    background-color: lightgrey;
+}
+#id2{
+    color:red;
+}
